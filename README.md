@@ -1,2 +1,2 @@
 # gameia
-Desenvolvimento de um jogo entre amigos para aprender
+Desenvolvimento de uma aplicação entre amigos para aprendizado
